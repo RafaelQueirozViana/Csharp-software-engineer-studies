@@ -30,11 +30,7 @@
 
             Console.Write("Type the employee id that will have the increase: ");
             int idToIncrease = int.Parse(Console.ReadLine());
-
             Employee employeeToIncrease = employeesList.Find(e => e.Id == idToIncrease);
-
-
-
 
 
             if (employeeToIncrease != null) {
