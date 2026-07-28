@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Exercises/">
+    <Project Path="EmployeesExercise/EmployeesExercise.csproj" Id="0f9c475f-4b3e-4ad5-a2a2-ef98e5da3611" />
     <Project Path="Exercises/AdvancedClassesExercise/BankAccountExercise.csproj" Id="706f7b5c-9cb9-48cd-8e08-3cab4b79bc22" />
     <Project Path="Exercises/highNumberProject/HighNumExercise.csproj" />
     <Project Path="Exercises/RoomReservation/RoomReservation.csproj" Id="f7d1d989-c2a4-4198-9ea3-5f7993b365f7" />
