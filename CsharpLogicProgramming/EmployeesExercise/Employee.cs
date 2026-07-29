@@ -14,7 +14,5 @@
         public void salaryIncrease(double percentage) {
             Salary += Salary * (percentage / 100);
         }
-
-
     }
 }

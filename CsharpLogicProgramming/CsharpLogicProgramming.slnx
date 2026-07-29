@@ -8,6 +8,7 @@
   </Folder>
   <Project Path="AdvancedClasses/AdvancedClasses.csproj" />
   <Project Path="Classes/Classes.csproj" />
+  <Project Path="ExpressionConditionals/ExpressionConditionals.csproj" Id="9dc0d74e-55cd-438a-947f-7a0839fb2cab" />
   <Project Path="Lists/Lists.csproj" Id="95e21ef4-f5ea-4f6b-b4b4-946e5f4fd23f" />
   <Project Path="MemoryBehavior/MemoryBehavior.csproj" Id="af5d5645-4814-46a2-9b5c-d1b4c7ecf734" />
   <Project Path="ParamsModifier/ParamsModifier.csproj" Id="fb40775f-ad4d-494e-b806-d10f118e52e1" />
