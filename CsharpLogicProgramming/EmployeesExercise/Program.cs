@@ -45,10 +45,6 @@
             else {
                 Console.WriteLine("Error: this id doesn't exist");
             }
-
-
-
-
         }
 
         static void showEmployees(List<Employee> list) {

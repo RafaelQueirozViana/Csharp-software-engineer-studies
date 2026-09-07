@@ -1,8 +1,11 @@
 ﻿using Classes;
 
-namespace MyApp {
-    internal class Program {
-        static void Main(string[] args) {
+namespace MyApp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
 
             Product product1 = new Product();
 
